@@ -15,8 +15,8 @@
   /* start of header items */
 .header-container {
   background-image: url("../images/banner/banner3.png");
-  width: 1600px;
-  height: 800px;
+  width: 1700px;
+  height: 900px;
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -98,6 +98,7 @@
 } */
 /* end of main items of 3rd section */
 
+ /* start of main items of 4th section */
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -109,11 +110,52 @@ table, th, td {
     padding-right: 40px;
     background-color: brown;
   }
+/* end of main items of 4th section */
 
 
+.footer-left{
+    color: white;
+    margin-left: 250px;
+    margin-top: 120px;
+}
+.footer-right{
+    margin-top: 120px;
+}
+.left-head{
+    font-size: 45px;
+}
+.left-para{
+    font-size: 16px;
+}
+.left-icons{
 
-
-
+    font-size: 30px;
+}
+.right-head{
+    color: white;
+    margin-bottom: 20px;
+}
+.right-btn{
+    background-color: #005fac;
+    color: white;
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+}
+.right-submit{
+    width: 250px;
+    height: 30px;
+    border: 2PX solid white;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    display: flex;
+    gap: 330px;
+}
 
 
 
