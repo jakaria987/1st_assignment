@@ -112,7 +112,9 @@ table, th, td {
   }
 /* end of main items of 4th section */
 
+ /* end of main items */
 
+/* start of footer section */
 .footer-left{
     color: white;
     margin-left: 250px;
@@ -156,12 +158,4 @@ table, th, td {
     display: flex;
     gap: 330px;
 }
-
-
-
-
-
-
-
-
- /* end of main items */
+/* end of footer section */
